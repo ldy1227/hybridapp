@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private final int BT_FRAGMENT3 = 7;
     private final int BT_FRAGMENT4 = 8;
     private final int BT_FRAGMENT5 = 9;
+    private final int BT_FRAGMENT6 = 10;
+
 
     private Button top_tab1, top_tab2, top_tab3, top_tab4;
     private Button bt_tab1, bt_tab2, bt_tab3, bt_tab4;
